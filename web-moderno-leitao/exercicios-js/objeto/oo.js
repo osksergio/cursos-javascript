@@ -19,3 +19,5 @@ objeto.processamento()  // Na orientação a objetos, o foco passou as ser o obj
 // Princípios importantes na OO
 //      1. Abstração >> obter dados do mundo real para inserir no mundo do software
 //      2. Encapsulamento >> certas informações do mundo real não devem ficar expostas ao usuário 
+//      3. Herança (Prototype)
+//      4. Polimorfismo
